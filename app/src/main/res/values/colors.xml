@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#1B1B1B</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="purple_500">#03DAC5</color>
+    <color name="purple_700">#03DAC5</color>
+    <color name="white">#fff</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#03DAC5</color>
+    <color name="black">#03DAC5</color>
+    <color name="transparent">#1C00ff00</color>
+    <color name="purple_200" tools:ignore="DuplicateDefinition">#03DAC5</color>
+</resources>
